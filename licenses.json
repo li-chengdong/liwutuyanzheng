@@ -1,1 +1,4 @@
-{"DEFAULT_EXPIRE":""}
+{
+  "7FEB16D100D7EEFE": {"revoked": true, "note": "测试撤销-立即恢复"},
+  "DEFAULT_EXPIRE": ""
+}
